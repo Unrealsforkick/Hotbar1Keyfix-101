@@ -1,2 +1,4 @@
 # Hotbar1Keyfix-101
-Small mod for fixing hotbar issues i had 
+Had an issue on my friends mc server so made a fix...
+Ghost press 
+If anyone had these issues too u can use this
